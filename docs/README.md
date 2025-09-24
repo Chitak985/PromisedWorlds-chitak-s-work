@@ -1,5 +1,5 @@
 ![](https://i.imgur.com/74Iovs6.jpeg) 
-![License](https://img.shields.io/badge/License-CC%E2%80%93BY%E2%80%93NC%E2%80%93SA-green.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FKSP-CKAN%2FCKAN-meta%2Frefs%2Fheads%2Fmaster%2Fdownload_counts.json&query=PromisedWorldsCore&label=Downloads)
 ![Last commit](https://img.shields.io/github/last-commit/PromisedWorlds/PromisedWorlds/main.svg)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/PromisedWorlds/PromisedWorlds)
@@ -24,8 +24,8 @@ If you want to stay up to date with progress or contribute, join our Discord ser
 - Tuun system: Coming Soon!
 
 ## SpaceDock 
-- SpaceDock is no longer being supported by Promised Worlds.
-  
+SpaceDock installation is no longer supported. We have had repeated issues with uploading large files which make it impossible for us to keep updating the mod on SpaceDock. Please install via CKAN or by GitHub. If you have issues with GitHub, please contact a developer on the Discord server #help channel.
+
 ## Manual (GitHub)
 - Download the latest version from [releases](https://github.com/Constructalor/PromisedWorlds/releases). You will need the Core zip file, along with the zip file for any systems you want. You can install any of the systems you like - you don't have to take them all.
 - Extract the Core zip file, and put the contents of GameData in your GameData directory.
@@ -42,19 +42,14 @@ In the PromisedWorlds directory there is PromisedWorldsSettings.cfg with options
 - RealisticStarSize (Makes the stars more realistically sized relative to the planets)
 
 # Most Recent Changes
-## V1.1.2:
+## V1.1.3
 NEW FEATURES / IMPROVEMENTS:
-- Improve Lapat and Ovin's ScaledSpace
-- Random main menu bodies are now optional. Change RandomMainMenuBody to false in PromisedWorldsSettings.cfg to disable it and return to stock behavior.
-- Glumo has a new orbit icon
+- Bis now has its atmosphere - Arekusu can finally rest.
+- A new setting allows you to re-add stock loading screens if you want. Change RemoveStockScreens to False in PromisedWorldsSettings.cfg to have both stock screens and Promised Worlds'.
 
 BUGFIXES:
-- Update Omasa's description to reflect the change in Mesma's orbit
-
-TECHNICAL IMPROVEMENTS:
-- Move all science definitions to localization. If you would like to help translate Promised Worlds, please ping @levitato5594 on our Discord server!
-- Add dummy ModuleManager config to make it easier to detect installed systems. You can now do NEEDS[SystemDebdeb] to detect whether the Debdeb system is installed. This will be useful for mod developers wanting to be compatible with Promised Worlds.
-- Planet debug settings are now a global toggle, under the debug section of PromisedWorldsSettings.cfg
+- Bis's SOI has been shrunk so that it doesn't steal ships from Dorau at its periapsis.
+- Dorau's atmosphere no longer has oxygen - it is not supposed to.
 
 ## Wiki
-More information about the Star Systems and anything other regarding Promised Worlds is up on our [Wiki](https://github.com/PromisedWorlds/PromisedWorlds/wiki), check it out!
+More information about the Star Systems and anything other regarding Promised Worlds is up on our [Wiki](https://github.com/PromisedWorlds/PromisedWorlds/wiki), check it out! :D

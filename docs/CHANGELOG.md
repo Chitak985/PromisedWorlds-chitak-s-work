@@ -75,3 +75,12 @@ TECHNICAL IMPROVEMENTS:
 - Move all science definitions to localization. If you would like to help translate Promised Worlds, please ping @levitato5594 on our Discord server!
 - Add dummy ModuleManager config to make it easier to detect installed systems. You can now do NEEDS[SystemDebdeb] to detect whether the Debdeb system is installed. This will be useful for mod developers wanting to be compatible with Promised Worlds.
 - Planet debug settings are now a global toggle, under the debug section of PromisedWorldsSettings.cfg
+
+## V1.1.3
+NEW FEATURES / IMPROVEMENTS:
+- Bis now has its atmosphere - Arekusu can finally rest.
+- A new setting allows you to re-add stock loading screens if you want. Change RemoveStockScreens to False in PromisedWorldsSettings.cfg to have both stock screens and Promised Worlds'.
+
+BUGFIXES:
+- Bis's SOI has been shrunk so that it doesn't steal ships from Dorau at its periapsis.
+- Dorau's atmosphere no longer has oxygen - it is not supposed to.
