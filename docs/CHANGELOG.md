@@ -84,3 +84,7 @@ NEW FEATURES / IMPROVEMENTS:
 BUGFIXES:
 - Bis's SOI has been shrunk so that it doesn't steal ships from Dorau at its periapsis.
 - Dorau's atmosphere no longer has oxygen - it is not supposed to.
+
+## V1.1.4
+BUGFIXES:
+- Added a config for KSP Community Fixes to automatically disable the stock maneuver tool, as this caused game crashes when changing SOIs. Thanks Matt Lowne for catching this!

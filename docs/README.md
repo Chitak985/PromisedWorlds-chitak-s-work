@@ -19,7 +19,7 @@ If you want to stay up to date with progress or contribute, join our Discord ser
 
 # Installation
 
-## CKAN
+## CKAN (Recommended)
 - Select "Promised Worlds - Debdeb" for the Debdeb system. CKAN will install the required dependencies.
 - Tuun system: Coming Soon!
 
@@ -31,7 +31,7 @@ SpaceDock installation is no longer supported. We have had repeated issues with 
 - Extract the Core zip file, and put the contents of GameData in your GameData directory.
 - For each system you want:
     - Extract the system's zip file, and put the contents of its GameData in your GameData directory. It will add a directory within PromisedWorlds.
-- Download the mod's dependencies - [Kopernicus](https://github.com/kopernicus/kopernicus/releases), [ScaledDecorator](https://github.com/Sushutt/ScaledDecorator/releases), and [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) (This is only required if you wish to use wormholes)
+- Install the mod's dependencies - make sure to follow their install instructions, including their dependencies - [Kopernicus](https://github.com/kopernicus/kopernicus/releases), [ScaledDecorator](https://github.com/Sushutt/ScaledDecorator/releases),[KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases), and [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) (This is only required if you wish to use wormholes)
 - Extract these zip files and put all folders in GameData.
   
 ## Options
@@ -40,16 +40,13 @@ In the PromisedWorlds directory there is PromisedWorldsSettings.cfg with options
 - DistanceFactor (How far from Kerbol the systems will be)
 - Rescale (Resize the systems, requires Sigma Dimensions)
 - RealisticStarSize (Makes the stars more realistically sized relative to the planets)
+- RandomMainMenuBody (Whether or not to show random Promised Worlds planets on the main menu)
+- RemoveStockScreens (Whether or not to remove the stock loading screens and only show PW's)
 
 # Most Recent Changes
-## V1.1.3
-NEW FEATURES / IMPROVEMENTS:
-- Bis now has its atmosphere - Arekusu can finally rest.
-- A new setting allows you to re-add stock loading screens if you want. Change RemoveStockScreens to False in PromisedWorldsSettings.cfg to have both stock screens and Promised Worlds'.
-
+## V1.1.4
 BUGFIXES:
-- Bis's SOI has been shrunk so that it doesn't steal ships from Dorau at its periapsis.
-- Dorau's atmosphere no longer has oxygen - it is not supposed to.
+- Added a config for KSP Community Fixes to automatically disable the stock maneuver tool, as this caused game crashes when changing SOIs. Thanks Matt Lowne for catching this!
 
 ## Wiki
 More information about the Star Systems and anything other regarding Promised Worlds is up on our [Wiki](https://github.com/PromisedWorlds/PromisedWorlds/wiki), check it out! :D
