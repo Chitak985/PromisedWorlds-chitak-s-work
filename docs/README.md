@@ -24,7 +24,7 @@ If you want to stay up to date with progress or contribute, join our Discord ser
 - Tuun system: Coming Soon!
 
 ## SpaceDock 
-SpaceDock installation is no longer supported. We have had repeated issues with uploading large files which make it impossible for us to keep updating the mod on SpaceDock. Please install via CKAN or by GitHub. If you have issues with GitHub, please contact a developer on the Discord server #help channel.
+SpaceDock installation is no longer supported. We have had repeated issues with uploading large files which make it impossible for us to keep updating the mod on SpaceDock. Please install via CKAN or from GitHub. If you have issues with GitHub, please contact a developer on the Discord server #help channel.
 
 ## Manual (GitHub)
 - Download the latest version from [releases](https://github.com/Constructalor/PromisedWorlds/releases). You will need the Core zip file, along with the zip file for any systems you want. You can install any of the systems you like - you don't have to take them all.
