@@ -9,7 +9,7 @@
 
 So far, we have implemented the Debdeb System. The Tuun System is in the early stages of development, with a few planets implemented. The Qeg System is being conceptualized (an uncertain feature).
 
-All content for Promised Worlds is being designed in-house. We are not using any KSP 2 assets. 
+All content for Promised Worlds is being designed in-house. We are **not** using any KSP 2 assets. 
  
 Each world has been meticulously crafted to align with KSP 2 development screenshots and data mining discoveries. For celestial bodies lacking implementation details (e.g., Dorau), we are applying creative liberties to attain what we feel were the KSP 2 developers' intentions.
 
@@ -49,4 +49,4 @@ BUGFIXES:
 - Added a config for KSP Community Fixes to automatically disable the stock maneuver tool, as this caused game crashes when changing SOIs. Thanks Matt Lowne for catching this!
 
 ## Wiki
-More information about the Star Systems and anything other regarding Promised Worlds is up on our [Wiki](https://github.com/PromisedWorlds/PromisedWorlds/wiki), check it out! :D
+More information about the Star Systems and anything other regarding Promised Worlds is up on our [Wiki](https://github.com/PromisedWorlds/PromisedWorlds/wiki).
