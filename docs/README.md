@@ -43,10 +43,48 @@ In the PromisedWorlds directory there is PromisedWorldsSettings.cfg with options
 - RandomMainMenuBody (Whether or not to show random Promised Worlds planets on the main menu)
 - RemoveStockScreens (Whether or not to remove the stock loading screens and only show PW's)
 
-# Most Recent Changes
-## V1.1.4
+## Most Recent Changes v1.1.4
 BUGFIXES:
 - Added a config for KSP Community Fixes to automatically disable the stock maneuver tool, as this caused game crashes when changing SOIs. Thanks Matt Lowne for catching this!
+
+## Contributers
+We'd like to thank all the Promised Worlds contributers which dedicated their time to help with this project. Thank you ❤️
+
+Project Lead:
+- Emu (@Constructalor)
+
+Developers:
+- Arekusu
+- averageksp
+- techo
+- levitato
+- NexusHelium
+- ProximaCentauri
+- Sushut
+- wpetula
+- YGTE
+
+Contributers:
+- kerbalcommander543
+- Lad-8008
+- Localz
+- Nerdy Boy
+- Omni-Man
+- Oprissmian
+- pilot
+
+Translators:
+- haumea/tankocat
+- Datsk
+- lebobas
+- Leo
+- Omni-Man
+- oprissmian
+- tuna_army1444
+- undex
+- zhuzhu
+- zTallsTwo
+
 
 ## Wiki
 More information about the Star Systems and anything other regarding Promised Worlds is up on our [Wiki](https://github.com/PromisedWorlds/PromisedWorlds/wiki).
