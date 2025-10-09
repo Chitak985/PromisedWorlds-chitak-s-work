@@ -85,6 +85,7 @@ Translators:
 - zhuzhu
 - zTallsTwo
 
+As of now, we have **25** people actively contributing. Once again, thank you.
 
 ## Wiki
 More information about the Star Systems and anything other regarding Promised Worlds is up on our [Wiki](https://github.com/PromisedWorlds/PromisedWorlds/wiki).
