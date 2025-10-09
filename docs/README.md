@@ -75,6 +75,7 @@ Contributers:
 
 Translators:
 - haumea/tankocat
+- Chitak
 - Datsk
 - lebobas
 - Leo
