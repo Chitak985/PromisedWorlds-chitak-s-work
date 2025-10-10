@@ -43,9 +43,26 @@ In the PromisedWorlds directory there is PromisedWorldsSettings.cfg with options
 - RandomMainMenuBody (Whether or not to show random Promised Worlds planets on the main menu)
 - RemoveStockScreens (Whether or not to remove the stock loading screens and only show PW's)
 
-## Most Recent Changes v1.1.4
+# Most Recent Changes
+## V1.2.0
+NEW FEATURES / IMPROVEMENTS:
+- Support for Blackrack's V5 volumetric clouds on most planets. V4 clouds are no longer supported.
+- Added Tuun and its first three planets - Puf, Rask, and Rusk.
+- Enhanced Umod's terrain and normal map
+- Updated our title slide to reflect our new developers!
+
 BUGFIXES:
-- Added a config for KSP Community Fixes to automatically disable the stock maneuver tool, as this caused game crashes when changing SOIs. Thanks Matt Lowne for catching this!
+- Fixed an error causing parts of Donk to turn red
+- Fix a missing science def for Ovin's Valley of Despair
+
+TECHNICAL IMPROVEMENTS:
+- Move loading tips to localization so those can be translated.
+- A few utility textures for EVE clouds have been added to Core
+
+TRANSLATIONS:
+Promised Worlds now has some translations for several languages, thanks to our hardworking translator teams!
+- Added translations for body descriptions and biome names for Spanish and German
+- Added translations for body descriptions for Russian
 
 ## Contributors
 We'd like to thank all the Promised Worlds contributors which dedicated their time to help with this project. Thank you ❤️
