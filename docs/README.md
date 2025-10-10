@@ -31,7 +31,7 @@ SpaceDock installation is no longer supported. We have had repeated issues with 
 - Extract the Core zip file, and put the contents of GameData in your GameData directory.
 - For each system you want:
     - Extract the system's zip file, and put the contents of its GameData in your GameData directory. It will add a directory within PromisedWorlds.
-- Install the mod's dependencies - make sure to follow their install instructions, including their dependencies - [Kopernicus](https://github.com/kopernicus/kopernicus/releases), [ScaledDecorator](https://github.com/Sushutt/ScaledDecorator/releases),[KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases), and [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) (This is only required if you wish to use wormholes)
+- Install the mod's dependencies - make sure to follow their install instructions, including their dependencies - [Kopernicus](https://github.com/kopernicus/kopernicus/releases), [ScaledDecorator](https://github.com/Sushutt/ScaledDecorator/releases), [KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases), and [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) (This is only required if you wish to use wormholes)
 - Extract these zip files and put all folders in GameData.
   
 ## Options
