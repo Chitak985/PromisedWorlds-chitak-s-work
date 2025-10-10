@@ -44,7 +44,7 @@ In the PromisedWorlds directory there is PromisedWorldsSettings.cfg with options
 - RemoveStockScreens (Whether or not to remove the stock loading screens and only show PW's)
 
 # Most Recent Changes
-## V1.2.0
+## v1.2.0
 NEW FEATURES / IMPROVEMENTS:
 - Support for Blackrack's V5 volumetric clouds on most planets. V4 clouds are no longer supported.
 - Added Tuun and its first three planets - Puf, Rask, and Rusk.
