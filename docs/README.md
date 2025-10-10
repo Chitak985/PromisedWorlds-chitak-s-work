@@ -47,8 +47,8 @@ In the PromisedWorlds directory there is PromisedWorldsSettings.cfg with options
 BUGFIXES:
 - Added a config for KSP Community Fixes to automatically disable the stock maneuver tool, as this caused game crashes when changing SOIs. Thanks Matt Lowne for catching this!
 
-## Contributers
-We'd like to thank all the Promised Worlds contributers which dedicated their time to help with this project. Thank you ❤️
+## Contributors
+We'd like to thank all the Promised Worlds contributors which dedicated their time to help with this project. Thank you ❤️
 
 Project Lead:
 - Emu (@Constructalor)
@@ -64,7 +64,7 @@ Developers:
 - wpetula
 - YGTE
 
-Contributers:
+Contributors:
 - kerbalcommander543
 - Lad-8008
 - Localz
