@@ -80,7 +80,7 @@ In the `PromisedWorlds` directory, there is a `PromisedWorldsSettings.cfg` file 
 |:--|:--|
 | **Wormholes** | Enables wormholes *(requires Singularity for shaders)* |
 | **DistanceFactor** | Controls how far from Kerbol the systems will be |
-| **Rescale** | Resizes the systems *(requires Sigma Dimensions)* |
+| **Rescale** | Resizes the systems *(requires [Sigma Dimensions](https://github.com/Sigma88/Sigma-Dimensions))* |
 | **RealisticStarSize** | Makes stars more realistically sized relative to planets |
 | **RandomMainMenuBody** | Shows random Promised Worlds planets on the main menu |
 | **RemoveStockScreens** | Removes stock loading screens and only shows PW's |
