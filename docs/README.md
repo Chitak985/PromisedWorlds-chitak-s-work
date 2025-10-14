@@ -4,7 +4,7 @@
 ![Last commit](https://img.shields.io/github/last-commit/PromisedWorlds/PromisedWorlds/main.svg)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/PromisedWorlds/PromisedWorlds)
 ![KSP Version](https://img.shields.io/badge/KSP-1.12.x-blue.svg)
-# Promised Worlds
+# 🌌 Promised Worlds
 **Promised Worlds is a faithful revival of the solar systems Intercept Games planned to release for KSP 2. Want to brave the crater lakes of Gurdamma? Launch between the molten seas of Rask and Rusk? Our team of veteran KSP 1 modders is working around the globe to bring you those experiences—and more!**
 
 So far, we have implemented the Debdeb System. The Tuun System is in the early stages of development, with a few planets implemented. The Qeg System is being conceptualized (an uncertain feature).
@@ -17,7 +17,7 @@ Promised Worlds is currently in early access. Planets, moons, and other features
 
 If you want to stay up to date with progress or contribute, join our Discord server! https://discord.gg/cuY2Hx2emM
 
-# Installation
+# 📦 Installation
 
 ## CKAN (Recommended)
 - Select "Promised Worlds - Debdeb" for the Debdeb system. CKAN will install the required dependencies.
@@ -34,7 +34,7 @@ SpaceDock installation is no longer supported. We have had repeated issues with 
 - Install the mod's dependencies - make sure to follow their install instructions, including their dependencies - [Kopernicus](https://github.com/kopernicus/kopernicus/releases), [ScaledDecorator](https://github.com/Sushutt/ScaledDecorator/releases), [KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases), and [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) (This is only required if you wish to use wormholes)
 - Extract these zip files and put all folders in GameData.
   
-## Options
+## ⚙️Options
 In the PromisedWorlds directory there is PromisedWorldsSettings.cfg with options for the mod:
 - Wormholes (Requires Singularity for shaders)
 - DistanceFactor (How far from Kerbol the systems will be)
@@ -64,46 +64,19 @@ Promised Worlds now has some translations for several languages, thanks to our h
 - Added translations for body descriptions and biome names for Spanish and German
 - Added translations for body descriptions for Russian
 
-## Contributors
-We'd like to thank all the Promised Worlds contributors which dedicated their time to help with this project. Thank you ❤️
+## 🔨 Contributors
 
-Project Lead:
-- Emu (@Constructalor)
+We'd like to thank all the Promised Worlds contributors who dedicated their time to help with this project. Thank you ❤️
 
-Developers:
-- Arekusu
-- averageksp
-- techo
-- levitato
-- NexusHelium
-- ProximaCentauri
-- Sushut
-- wpetula
-- YGTE
+| Role           | Contributors |
+|----------------|--------------|
+| **Project Lead** | Emu (@Constructalor) |
+| **Developers** | Arekusu, averageksp, techo, levitato, NexusHelium, ProximaCentauri, Sushut, wpetula, YGTE |
+| **Contributors** | kerbalcommander543, Lad-8008, Localz, Nerdy Boy, Omni-Man, Oprissmian, pilot |
+| **Translators** | haumea/tankocat, Chitak, Datsk, lebobas, Leo, Omni-Man, oprissmian, tuna_army1444, undex, zhuzhu, zTallsTwo, Alphastar |
 
-Contributors:
-- kerbalcommander543
-- Lad-8008
-- Localz
-- Nerdy Boy
-- Omni-Man
-- Oprissmian
-- pilot
 
-Translators:
-- haumea/tankocat
-- Chitak
-- Datsk
-- lebobas
-- Leo
-- Omni-Man
-- oprissmian
-- tuna_army1444
-- undex
-- zhuzhu
-- zTallsTwo
+As of now, we have **26** people actively contributing.
 
-As of now, we have **25** people actively contributing. Once again, thank you.
-
-## Wiki
+## 📚 Wiki
 More information about the Star Systems and anything other regarding Promised Worlds is up on our [Wiki](https://github.com/PromisedWorlds/PromisedWorlds/wiki).
