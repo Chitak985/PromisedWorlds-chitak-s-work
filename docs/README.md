@@ -21,7 +21,7 @@ If you want to stay up to date with progress or contribute, join our Discord ser
 
 ## CKAN (Recommended)
 - Select "Promised Worlds - Debdeb" for the Debdeb system. CKAN will install the required dependencies.
-- Tuun system: Coming Soon!
+- Select "Promised Worlds - Tuun" for the Tuun system. CKAN will install the required dependencies.
 
 ## SpaceDock 
 SpaceDock installation is no longer supported. We have had repeated issues with uploading large files which make it impossible for us to keep updating the mod on SpaceDock. Please install via CKAN or from GitHub. If you have issues with GitHub, please contact a developer on the Discord server #help channel.
