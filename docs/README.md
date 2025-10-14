@@ -5,64 +5,85 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/PromisedWorlds/PromisedWorlds)
 ![KSP Version](https://img.shields.io/badge/KSP-1.12.x-blue.svg)
 # 🌌 Promised Worlds
-**Promised Worlds is a faithful revival of the solar systems Intercept Games planned to release for KSP 2. Want to brave the crater lakes of Gurdamma? Launch between the molten seas of Rask and Rusk? Our team of veteran KSP 1 modders is working around the globe to bring you those experiences—and more!**
 
-So far, we have implemented the Debdeb System. The Tuun System is in the early stages of development, with a few planets implemented. The Qeg System is being conceptualized (an uncertain feature).
+**Promised Worlds** is a faithful revival of the solar systems that *Intercept Games* planned for *Kerbal Space Program 2*.  
+Want to brave the crater lakes of **Gurdamma** or launch between the molten seas of **Rask and Rusk**?  
+Our team of veteran KSP 1 modders is working around the globe to bring you those experiences!
 
-All content for Promised Worlds is being designed in-house. We are **not** using any KSP 2 assets. 
- 
-Each world has been meticulously crafted to align with KSP 2 development screenshots and data mining discoveries. For celestial bodies lacking implementation details (e.g., Dorau), we are applying creative liberties to attain what we feel were the KSP 2 developers' intentions.
+---
 
-Promised Worlds is currently in early access. Planets, moons, and other features are being added incrementally in updates. We're nearing a full release now with only a handful of features left to add. 
+### 🪐 Current Progress
+- **Debdeb System** – Fully implemented  
+- **Tuun System** – In early development (a few planets implemented)  
+- **Qeg System** – In conceptual design (subject to change)
 
-If you want to stay up to date with progress or contribute, join our Discord server! https://discord.gg/cuY2Hx2emM
+---
 
-# 📦 Installation
+### 🎨 Design Philosophy
+All content in **Promised Worlds** is created entirely in-house, we do **not** use any *KSP2* assets.  
+Each planet and moon is crafted to closely match *KSP2*’s development screenshots, concept art, and datamined information.  
+For worlds without detailed references (like **Dorau**), we use creative interpretation to reflect what we believe the developers intended.
 
-## CKAN (Recommended)
-- Select "Promised Worlds - Debdeb" for the Debdeb system. CKAN will install the required dependencies.
-- Select "Promised Worlds - Tuun" for the Tuun system. CKAN will install the required dependencies.
+---
 
-## SpaceDock 
-SpaceDock installation is no longer supported. We have had repeated issues with uploading large files which make it impossible for us to keep updating the mod on SpaceDock. Please install via CKAN or from GitHub. If you have issues with GitHub, please contact a developer on the Discord server #help channel.
+### 🌐 Stay Connected
+Want to stay updated or contribute to development?  
+Join our community on Discord: **[discord.gg/cuY2Hx2emM](https://discord.gg/cuY2Hx2emM)**
 
-## Manual (GitHub)
-- Download the latest version from [releases](https://github.com/Constructalor/PromisedWorlds/releases). You will need the Core zip file, along with the zip file for any systems you want. You can install any of the systems you like - you don't have to take them all.
-- Extract the Core zip file, and put the contents of GameData in your GameData directory.
-- For each system you want:
-    - Extract the system's zip file, and put the contents of its GameData in your GameData directory. It will add a directory within PromisedWorlds.
-- Install the mod's dependencies - make sure to follow their install instructions, including their dependencies - [Kopernicus](https://github.com/kopernicus/kopernicus/releases), [ScaledDecorator](https://github.com/Sushutt/ScaledDecorator/releases), [KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases), and [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) (This is only required if you wish to use wormholes)
-- Extract these zip files and put all folders in GameData.
+
+## 🚀 Installation Guide
+
+### 📦 CKAN (Recommended)
+CKAN is the easiest and most reliable way to install **Promised Worlds** and its dependencies.
+
+- Select **“Promised Worlds – Debdeb”** to install the Debdeb system  
+- Select **“Promised Worlds – Tuun”** to install the Tuun system  
+
+CKAN will automatically download all required dependencies for you.
+
+---
+
+### 🌌 SpaceDock
+❌ **Not supported anymore**
+
+Due to repeated issues with uploading large files, we no longer maintain Promised Worlds on SpaceDock.  
+Please install via **CKAN** or **GitHub** instead.  
+If you encounter any issues with the GitHub release, reach out to the dev team on the [Discord server](https://discord.gg/cuY2Hx2emM).
+
+---
+
+### 🧩 Manual Installation (GitHub)
+If you prefer to install manually:
+
+1. Download the latest release from the [GitHub Releases](https://github.com/Constructalor/PromisedWorlds/releases) page.  
+   - You need the **Core** `.zip` file and the `.zip` file(s) for any system(s) you want.  
+2. Extract the **Core** `.zip` and place its `GameData` contents into your KSP `GameData` directory.  
+3. For each system (Debdeb, Tuun, etc.) you want to add:
+   - Extract the system’s `.zip` and place its `GameData` contents into your KSP `GameData` directory (this adds a folder under `PromisedWorlds`).  
+4. Install the required dependencies:
+   - [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)  
+   - [ScaledDecorator](https://github.com/Sushutt/ScaledDecorator/releases)  
+   - [KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases)  
+   - [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) *(only required for wormholes)*  
+5. Extract each dependency’s `.zip` and place its folders into your `GameData` directory.
+
+---
+
+💡 **Tip:** If you’re new to modding, CKAN handles dependencies automatically and avoids most manual errors — highly recommended!
+
   
-## ⚙️Options
-In the PromisedWorlds directory there is PromisedWorldsSettings.cfg with options for the mod:
-- Wormholes (Requires Singularity for shaders)
-- DistanceFactor (How far from Kerbol the systems will be)
-- Rescale (Resize the systems, requires Sigma Dimensions)
-- RealisticStarSize (Makes the stars more realistically sized relative to the planets)
-- RandomMainMenuBody (Whether or not to show random Promised Worlds planets on the main menu)
-- RemoveStockScreens (Whether or not to remove the stock loading screens and only show PW's)
+## ⚙️ Options
 
-# Most Recent Changes
-## v1.2.0
-NEW FEATURES / IMPROVEMENTS:
-- Support for Blackrack's V5 volumetric clouds on most planets. V4 clouds are no longer supported.
-- Added Tuun and its first three planets - Puf, Rask, and Rusk.
-- Enhanced Umod's terrain and normal map
-- Updated our title slide to reflect our new developers!
+In the `PromisedWorlds` directory, there is a `PromisedWorldsSettings.cfg` file with configurable options:
 
-BUGFIXES:
-- Fixed an error causing parts of Donk to turn red
-- Fix a missing science def for Ovin's Valley of Despair
-
-TECHNICAL IMPROVEMENTS:
-- Move loading tips to localization so those can be translated.
-- A few utility textures for EVE clouds have been added to Core
-
-TRANSLATIONS:
-Promised Worlds now has some translations for several languages, thanks to our hardworking translator teams!
-- Added translations for body descriptions and biome names for Spanish and German
-- Added translations for body descriptions for Russian
+| Option | Description |
+|:--|:--|
+| **Wormholes** | Enables wormholes *(requires Singularity for shaders)* |
+| **DistanceFactor** | Controls how far from Kerbol the systems will be |
+| **Rescale** | Resizes the systems *(requires Sigma Dimensions)* |
+| **RealisticStarSize** | Makes stars more realistically sized relative to planets |
+| **RandomMainMenuBody** | Shows random Promised Worlds planets on the main menu |
+| **RemoveStockScreens** | Removes stock loading screens and only shows PW's |
 
 ## 🔨 Contributors
 
@@ -75,8 +96,20 @@ We'd like to thank all the Promised Worlds contributors who dedicated their time
 | **Contributors** | kerbalcommander543, Lad-8008, Localz, Nerdy Boy, Omni-Man, Oprissmian, pilot |
 | **Translators** | haumea/tankocat, Chitak, Datsk, lebobas, Leo, Omni-Man, oprissmian, tuna_army1444, undex, zhuzhu, zTallsTwo, Alphastar |
 
-
 As of now, we have **26** people actively contributing.
+
+## ⚖️ License
+
+📜 **License**  
+Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+✅ You may share and adapt our work with **proper** credit  
+🚫 No commercial use  
+🔁 Changes must be shared under the same license   
+
+More information can be found in the [License.md](https://github.com/PromisedWorlds/PromisedWorlds/blob/89733c44ae02f62c4e30d520e7299b15171ce894/LICENSE.md) file.
+
+<img src="https://i.imgur.com/ULoCdoq.png" alt="LicenseImg" width="150">
 
 ## 📚 Wiki
 More information about the Star Systems and anything other regarding Promised Worlds is up on our [Wiki](https://github.com/PromisedWorlds/PromisedWorlds/wiki).
