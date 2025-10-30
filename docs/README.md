@@ -67,10 +67,15 @@ If you prefer to install manually:
    - [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) *(only required for wormholes)*  
 5. Extract each dependency’s `.zip` and place its folders into your `GameData` directory.
 
----
-
 💡 **Tip:** If you’re new to modding, CKAN handles dependencies automatically and avoids most manual errors — highly recommended!
 
+---
+
+## ❌ **Known Issues**
+
+- Donk occasionally appears black when eclipsing Gurdamma (No Known Fix)
+
+---
   
 ## ⚙️ Options
 
