@@ -58,6 +58,10 @@ If you prefer to install manually:
 
 💡 **Tip:** If you’re new to modding, CKAN handles dependencies automatically and avoids most manual errors — highly recommended!
 
+## ❓Why are there no commits and no new updates?
+- The Promised Worlds Dev Team is working on new updates for Promised Worlds, sadly updates take time and all of the commits go to our Dev repository first, those commits are bleeding edge.
+- After we decide that the update can be released, we release them publicly.
+- If you want to track progress of the developer repository for Promised Worlds you can join the discord and take a look at the channel called "github activity".
   
 ## ⚙️ Options
 
