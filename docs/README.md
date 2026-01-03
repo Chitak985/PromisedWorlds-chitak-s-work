@@ -109,4 +109,4 @@ More information can be found in the [License.md](https://github.com/PromisedWor
 <img src="https://i.imgur.com/ULoCdoq.png" alt="LicenseImg" width="150">
 
 ## 📚 Wiki
-More information about the Star Systems and anything other regarding Promised Worlds is up on our [Wiki](https://github.com/PromisedWorlds/PromisedWorlds/wiki).
+More information about the Star Systems and anything other regarding Promised Worlds is up on our [Wiki](https://promisedworlds.github.io/PWiki/).
