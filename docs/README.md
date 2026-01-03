@@ -54,10 +54,15 @@ If you prefer to install manually:
    - [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) *(only required for wormholes)*  
 5. Extract each dependency’s `.zip` and place its folders into your `GameData` directory.
 
+💡 **Tip:** If you’re new to modding, CKAN handles dependencies automatically and avoids most manual errors
+
 ---
 
-💡 **Tip:** If you’re new to modding, CKAN handles dependencies automatically and avoids most manual errors — highly recommended!
+## ❌ **Known Issues**
 
+- Donk occasionally appears black when eclipsing Gurdamma (No Known Fix)
+
+---
 ## ❓Why are there no commits and no new updates?
 - The Promised Worlds Dev Team is working on new updates for Promised Worlds, sadly updates take time and all of the commits go to our Dev repository first, those commits are bleeding edge.
 - After we decide that the update can be released, we release them publicly.
