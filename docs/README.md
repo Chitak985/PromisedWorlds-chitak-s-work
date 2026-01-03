@@ -6,30 +6,17 @@
 ![KSP Version](https://img.shields.io/badge/KSP-1.12.x-blue.svg)
 # 🌌 Promised Worlds
 
-**Promised Worlds** is a faithful revival of the solar systems that *Intercept Games* planned for *Kerbal Space Program 2*.  
-Want to brave the crater lakes of **Gurdamma** or launch between the molten seas of **Rask and Rusk**?  
-Our team of veteran KSP 1 modders is working around the globe to bring you those experiences!
+**Promised Worlds is a faithful revival of the solar systems Intercept Games planned to release for KSP 2. Want to brave the crater lakes of Gurdamma? Launch between the molten seas of Rask and Rusk? Our team of veteran KSP 1 modders is working around the globe to bring you those experiences—and more!**
 
----
+So far, we have implemented the Debdeb System. The Tuun System is in the early stages of development, with a few planets implemented in development builds. The Qeg System is being conceptualized (an uncertain feature).
 
-### 🪐 Current Progress
-- **Debdeb System** – Fully implemented  
-- **Tuun System** – In early development (a few planets implemented)  
-- **Qeg System** – In conceptual design (subject to change)
+All content for Promised Worlds is being designed in-house. We are not using any KSP 2 assets. 
+ 
+Each world has been meticulously crafted to align with KSP 2 development screenshots and data mining discoveries. For celestial bodies lacking implementation details (e.g., Umod), we are applying creative liberties to attain what we feel were the KSP 2 developers' intentions.
 
----
+Promised Worlds is currently in early access. Planets, moons, and other features are being added incrementally in updates. We're nearing a full release now with only a handful of features left to add. 
 
-### 🎨 Design Philosophy
-All content in **Promised Worlds** is created entirely in-house, we do **not** use any *KSP2* assets.  
-Each planet and moon is crafted to closely match *KSP2*’s development screenshots, concept art, and datamined information.  
-For worlds without detailed references (like **Dorau**), we use creative interpretation to reflect what we believe the developers intended.
-
----
-
-### 🌐 Stay Connected
-Want to stay updated or contribute to development?  
-Join our community on Discord: **[discord.gg/cuY2Hx2emM](https://discord.gg/cuY2Hx2emM)**
-
+If you want to stay up to date with progress or contribute, join our Discord server! https://discord.gg/cuY2Hx2emM
 
 ## 🚀 Installation Guide
 
@@ -76,6 +63,10 @@ If you prefer to install manually:
 - Donk occasionally appears black when eclipsing Gurdamma (No Known Fix)
 
 ---
+## ❓Why are there no commits and no new updates?
+- The Promised Worlds Dev Team is working on new updates for Promised Worlds, sadly updates take time and all of the commits go to our Dev repository first, those commits are bleeding edge.
+- After we decide that the update can be released, we release them publicly.
+- If you want to track progress of the developer repository for Promised Worlds you can join the discord and take a look at the channel called "github activity".
   
 ## ⚙️ Options
 

@@ -108,3 +108,7 @@ TRANSLATIONS:
 Promised Worlds now has some translations for several languages, thanks to our hardworking translator teams!
 - Added translations for body descriptions and biome names for Spanish and German
 - Added translations for body descriptions for Russian
+
+## V1.2.1
+BUGFIXES:
+- Shrink the SOI of wormholes to make sure they don't steal ships from Dres orbit.
