@@ -93,7 +93,7 @@ We'd like to thank all the Promised Worlds contributors who dedicated their time
 | **Contributors** | kerbalcommander543, Lad-8008, Localz, Nerdy Boy, Omni-Man, Oprissmian, pilot |
 | **Translators** | haumea/tankocat, Chitak, Datsk, lebobas, Leo, Omni-Man, oprissmian, tuna_army1444, undex, zhuzhu, zTallsTwo, Alphastar |
 
-As of now, we have **28** people actively contributing.
+As of now, we have **27** people actively contributing.
 
 ## ⚖️ License
 
