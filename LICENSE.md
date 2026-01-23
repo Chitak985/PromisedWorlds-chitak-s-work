@@ -3,12 +3,11 @@ Unless stated otherwise, all content of [Promised Worlds Planet Pack](https://gi
 Kerbal Space Program and Kerbal Space Program 2 are registered trademarks of Take-Two Interactive Software, Inc. or their respective owners.
 
 EXCEPTIONS:
-1. The sunflare textures are made based on textures of [Kabrams Sun Flare's Pack](https://spacedock.info/mod/1843/Kabrams%20Sun%20Flare%27s%20Pack%20for%20Scatterer.) and redistributed under its own license:
-    > GameData/PromisedWorlds/_Systems/Debdeb/Scatterer/Sunflares/
-    > GameData/PromisedWorlds/_Systems/Tuun/Scatterer/Sunflares/
-
-    License, as published on SpaceDock:
-    > (C) Copyright 2018 Reddit user /u/0-0-1. All rights reserved. (Unless your modding for the KSP community in which case feel free to use the included elements, and just credit as appropriate).
+1. The following textures are from [Astonomer's Visual Pack](https://forum.kerbalspaceprogram.com/topic/160878-112x-astronomers-visual-pack-beyond-v413-july-17th-2022/) and are redistributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License:
+    > GameData/PromisedWorlds/EVE/PluginData/Textures/detailNoise.dds
+    > GameData/PromisedWorlds/EVE/PluginData/Textures/uvnoise1.dds
+    > GameData/PromisedWorlds/EVE/PluginData/Textures/particle/rgb.dds
+    > GameData/PromisedWorlds/EVE/PluginData/Textures/particle/particle_NRM.dds
 
 2. The mod [Kopernicus Expansion Continued-er](https://forum.kerbalspaceprogram.com/index.php?/topic/195844-110-111-112-alpha-kopernicus-expansion-continued-er/) in the following folder is redistributed under the GNU General Public License v3:
     > GameData/KopernicusExpansion
@@ -25,27 +24,25 @@ EXCEPTIONS:
 6. The mod [Sigma LoadingScreens](https://forum.kerbalspaceprogram.com/topic/166521-wip-131-sigma-loadingscreens/) in the following path is (c) Sigma88, All Rights Reserved.
     > GameData/Sigma
     Sigma LoadingScreens is redistributed under its license as listed on the Kerbal Space Program Forum:
+    > License
 
-> License
+    > All Rights Reserved
 
-> All Rights Reserved
+    > Permission to distribute this mod is granted as long as the following conditions are met:
 
-> Permission to distribute this mod is granted as long as the following conditions are met:
+        > Only files from the official github releases can be distributed (excluded the Source Code)
+        > None of the files and folders can be modified or renamed
+        > You can distribute only the "LoadingScreens" folder found in the archive
+        > The files included in the "LoadingScreens" folder cannot be moved or deleted from inside that folder
 
-    > Only files from the official github releases can be distributed (excluded the Source Code)
-    > None of the files and folders can be modified or renamed
-    > You can distribute only the "LoadingScreens" folder found in the archive
-    > The files included in the "LoadingScreens" folder cannot be moved or deleted from inside that folder
+7. The Promised Worlds settings menu .dll (PromisedWorlds.dll) is (c) 2026, All Rights Reserved.
 
 // If I've left something out here, please let me know <3
 
-
-
-Copyright (c) 2025 Emu and Promised Worlds Contributors
+Copyright (c) 2026 Emu and Promised Worlds Contributors
 
 Provided under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC-BY-NC-SA 4.0):
 https://creativecommons.org/licenses/by-nc-sa/4.0/
-
 
 Attribution-NonCommercial-ShareAlike 4.0 International
 
