@@ -63,9 +63,3 @@
 #LOC_PW_load_062
 #LOC_PW_load_063
 #LOC_PW_load_064
-#LOC_PW_load_065
-#LOC_PW_load_066
-#LOC_PW_load_067
-#LOC_PW_load_068
-#LOC_PW_load_069
-#LOC_PW_load_070

@@ -6,20 +6,20 @@
 ![KSP Version](https://img.shields.io/badge/KSP-1.12.x-blue.svg)
 # 🌌 Promised Worlds
 
-**Promised Worlds is a faithful revival of the solar systems Intercept Games planned to release for KSP 2. Want to brave the crater lakes of Gurdamma? Launch between the molten seas of Rask and Rusk? Our team of veteran KSP 1 modders is working around the globe to bring you those experiences—and more!**
+**Promised Worlds is a faithful revival of the solar systems Intercept Games planned to release for KSP 2. Want to brave the crater lakes of Gurdamma? Launch between the molten seas of Rask and Rusk? Our team of veteran KSP 1 modders is working around the globe to bring you those experiences—and more—in KSP 1.**
 
-So far, we have implemented the Debdeb System. The Tuun System is in the early stages of development, with a few planets implemented and released. The full Tuun System is in development currently. The Qeg System is being conceptualized (an uncertain feature).
+So far, we have implemented the Debdeb system. The Tuun system is being developed, and several of its planets are available in the public builds. The Qeg system is early in development - since we have very little information to go on, we are drawing up concepts for its planets.
 
 All content for Promised Worlds is being designed in-house. We are not using any KSP 2 assets. 
  
 Each world has been meticulously crafted to align with KSP 2 development screenshots and data mining discoveries. For celestial bodies lacking implementation details (e.g., Umod), we are applying creative liberties to attain what we feel were the KSP 2 developers' intentions.
 
-Promised Worlds is currently in early access. Planets, moons, and other features are being added incrementally in updates. We're nearing a full release now with only a handful of features left to add. 
+Promised Worlds is being actively developed, and we are still adding and improving features. If you have feedback please let us know on GitHub or in the Discord server.
 
 If you want to stay up to date with progress or contribute, join our Discord server! https://discord.gg/cuY2Hx2emM
 
 ## 🚀 Installation Guide
-
+Promised Worlds is a mod for Kerbal Space Program - it does not work with KSP 2.
 ### 📦 CKAN (Recommended)
 CKAN is the easiest and most reliable way to install **Promised Worlds** and its dependencies.
 
@@ -53,20 +53,6 @@ If you prefer to install manually:
    - [KSP Community Fixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases)  
    - [Singularity](https://forum.kerbalspaceprogram.com/topic/193709-wip18x-112x-singularity-black-hole-shaders/) *(only required for wormholes)*  
 5. Extract each dependency’s `.zip` and place its folders into your `GameData` directory.
-
-💡 **Tip:** If you’re new to modding, CKAN handles dependencies automatically and avoids most manual errors
-
----
-
-## ❌ **Known Issues**
-
-- Donk occasionally appears black when eclipsing Gurdamma (No Known Fix)
-
----
-## ❓Why are there no commits and no new updates?
-- The Promised Worlds Dev Team is working on new updates for Promised Worlds, sadly updates take time and all of the commits go to our Dev repository first, those commits are bleeding edge.
-- After we decide that the update can be released, we release them publicly.
-- If you want to track progress of the developer repository for Promised Worlds you can join the discord and take a look at the channel called "github activity".
   
 ## ⚙️ Options
 
@@ -78,7 +64,6 @@ In the `PromisedWorlds` directory, there is a `PromisedWorldsSettings.cfg` file 
 | **DistanceFactor** | Controls how far from Kerbol the systems will be |
 | **Rescale** | Resizes the systems *(requires [Sigma Dimensions](https://github.com/Sigma88/Sigma-Dimensions))* |
 | **RealisticStarSize** | Makes stars more realistically sized relative to planets |
-| **RandomMainMenuBody** | Shows random Promised Worlds planets on the main menu |
 | **RemoveStockScreens** | Removes stock loading screens and only shows PW's |
 
 ## 🔨 Contributors
@@ -90,10 +75,10 @@ We'd like to thank all the Promised Worlds contributors who dedicated their time
 | **Project Lead** | Emu (@Constructalor) |
 | **Community Manager** | vision |
 | **Developers** | Arekusu, averageksp, techo, levitato, NexusHelium, ProximaCentauri, Sushut, wpetula |
-| **Contributors** | kerbalcommander543, Lad-8008, Localz, Nerdy Boy, Omni-Man, Oprissmian, pilot |
-| **Translators** | haumea/tankocat, Chitak, Datsk, lebobas, Leo, Omni-Man, oprissmian, tuna_army1444, undex, zhuzhu, zTallsTwo, Alphastar |
+| **Contributors** | kerbalcommander543, Lad-8008, Localz, Nerdy Boy, Omni-Man, Oprissmian, pilot, YGTE |
+| **Translators** | haumea/tankocat, Chitak, Datsk, lebobas, Leo, Omni-Man, oprissmian, tuna_army1444, undex, zTallsTwo, zhuzhu, Alphastar, satellitetorifune, ElyTheElf, Bustellar, BoxyAerospace |
 
-As of now, we have **27** people actively contributing.
+As of now, we have **32** people actively contributing.
 
 ## ⚖️ License
 
