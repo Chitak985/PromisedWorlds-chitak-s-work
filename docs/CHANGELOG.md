@@ -4,6 +4,11 @@
 
 Older Promised Worlds Changelogs can be found here <https://github.com/PromisedWorlds/PromisedWorlds> 
 
+## V2.0.1
+
+BUGFIXES:
+- The skybox setting now works correctly with KSP DiRT. If using TextureReplacer, the skybox cannot be disabled.
+
 ## V2.0.0
 This update has taken a long time and a lot of work. Thanks to some discoveries about KSP 2, major changes have been made across the entire mod. 
 Due to the wide-reaching impact of this update, we recommend you start a new save, as prior saves will almost certainly be broken.
