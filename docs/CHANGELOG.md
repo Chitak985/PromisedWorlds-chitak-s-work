@@ -4,6 +4,13 @@
 
 Older Promised Worlds Changelogs can be found here <https://github.com/PromisedWorlds/PromisedWorlds> 
 
+## V2.0.2
+BUGFIXES:
+- Fix Umod's terrain having gaps in it
+- Fix a typo in the skybox config file so the skybox actually works
+- Fix the Promised Worlds menu icon not loading correctly on Linux/Mac
+- Fix the edges of Puf's and Ovin's atmospheres displaying in front of the terrain
+
 ## V2.0.1
 
 BUGFIXES:
