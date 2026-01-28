@@ -5,9 +5,6 @@ PromisedWorldsSettings
 	Wormholes = False
 	// Enables wormholes that link the star systems and the Kerbol system together. Set to False for intended KSP2 experience.
 
-	PWFlareForKerbol = True
-	// Use the Promised Worlds sunflare on Kerbol - if set to false, Kerbol will use the stock sunflare, or any sunflare mod you have installed.
-
 	RealisticStarSize = False
 	// Options are True and False. Makes stars more realistically sized relative to the planets.
 
