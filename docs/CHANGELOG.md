@@ -4,6 +4,20 @@
 
 Older Promised Worlds Changelogs can be found here <https://github.com/PromisedWorlds/PromisedWorlds> 
 
+## V2.0.3
+NEW FEATURES / IMPROVEMENTS:
+- Upgraded the install checking plugin to help with more installation errors
+- Plugin now checks for all Promised Worlds and Kopernicus dependencies
+- Made the message for unsupported EVE version more clear to differentiate between EVE Redux and True Volumetric Clouds
+- Some improvements to Simplified Chinese translation
+
+BUGFIXES:
+- Added a missing localization key for Gurdamma's Ashen Midlands
+- Updated Axod's description to make more sense
+
+LICENSE UPDATE:
+- The Promised Worlds settings / install checking plugin is now free software! It is licensed under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.en.html). See the PluginLicense file for details.
+
 ## V2.0.2
 BUGFIXES:
 - Fix Umod's terrain having gaps in it

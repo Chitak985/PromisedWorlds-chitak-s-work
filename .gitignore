@@ -1,2 +1,4 @@
 *.log
 *.bin
+*.csproj.user
+plugin/obj

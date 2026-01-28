@@ -14,15 +14,15 @@ PromisedWorldsSettings
 	RemoveStockScreens = False
 	// Whether or not to remove the stock KSP loading screens. If false, Promised Worlds loading screens will be shown alongside the stock ones.
 
-	Skybox = True 
+	Skybox = True
 	// Requires DiRT or Sigma Replacements Skybox. Skybox will always be on with TextureReplacer - Set to True to enable the skybox. Set to False for the stock skybox or to use another skybox mod.
 
 	// ----- WIP Settings ----- These settings may result in some issues - use them carefully!
 
-	DistanceFactor = 1 
+	DistanceFactor = 1
 	// Options are as follows: 1 - Default kerbal-LYs (0.01 real LY) 0.1 - 10% default distance, 10 - 10x default distance, or 100 - 100x default distance. Multiplier for stellar distances.
 
-	Rescale = 1 
+	Rescale = 1
 	// Options are 1, 2.5 and 10. Requires Sigma Dimensions. Rescales all bodies and orbits. 2.5x rescale is forced when JNSQ is installed. 10x rescale is forced when RSS is installed.
 
 	// ----- Debug Settings -----

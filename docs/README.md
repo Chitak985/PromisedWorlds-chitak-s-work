@@ -61,10 +61,11 @@ In the `PromisedWorlds` directory, there is a `PromisedWorldsSettings.cfg` file 
 | Option | Description |
 |:--|:--|
 | **Wormholes** | Enables wormholes *(requires Singularity for shaders)* |
+| **RealisticStarSize** | Makes stars more realistically sized relative to the planets. |
+| **RemoveStockScreens** | Removes stock loading screens and only shows PW's |
+| **Skybox** | Requires DiRT or Sigma Replacements Skybox. Skybox will always be on with TextureReplacer - Set to True to enable the skybox. Set to False for the stock skybox or to use another skybox mod. |
 | **DistanceFactor** | Controls how far from Kerbol the systems will be |
 | **Rescale** | Resizes the systems *(requires [Sigma Dimensions](https://github.com/Sigma88/Sigma-Dimensions))* |
-| **RealisticStarSize** | Makes stars more realistically sized relative to planets |
-| **RemoveStockScreens** | Removes stock loading screens and only shows PW's |
 
 ## 🔨 Contributors
 
@@ -76,9 +77,9 @@ We'd like to thank all the Promised Worlds contributors who dedicated their time
 | **Community Manager** | vision |
 | **Developers** | Arekusu, averageksp, techo, levitato, NexusHelium, ProximaCentauri, Sushut, wpetula |
 | **Contributors** | kerbalcommander543, Lad-8008, Localz, Nerdy Boy, Omni-Man, Oprissmian, pilot, YGTE |
-| **Translators** | haumea/tankocat, Chitak, Datsk, lebobas, Leo, Omni-Man, oprissmian, tuna_army1444, undex, zTallsTwo, zhuzhu, Alphastar, satellitetorifune, ElyTheElf, Bustellar, BoxyAerospace |
+| **Translators** | Alphastar, BoxyAerospace, Bustellar, haumea/tankocat, Chitak, ElyTheElf, lebobas, Leo, Omni-Man, oprissmian, satellitetorifune, tuna_army1444, undex, zhuzhu, zTallsTwo |
 
-As of now, we have **32** people actively contributing.
+As of now, we have **29** people actively contributing.
 
 ## ⚖️ License
 
@@ -89,7 +90,7 @@ Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4
 🚫 No commercial use  
 🔁 Changes must be shared under the same license   
 
-More information can be found in the [License.md](https://github.com/PromisedWorlds/PromisedWorlds/blob/89733c44ae02f62c4e30d520e7299b15171ce894/LICENSE.md) file.
+More information can be found in the [License.md](https://github.com/PromisedWorlds/PromisedWorlds/blob/main/LICENSE.md) file.
 
 <img src="https://i.imgur.com/ULoCdoq.png" alt="LicenseImg" width="150">
 
