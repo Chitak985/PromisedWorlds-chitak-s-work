@@ -1,6 +1,6 @@
 // Promised Worlds Settings GUI (PromisedWorlds.dll)
 // Copyright © 2026 averageksp
-// All rights reserved. See PluginLicense.txt.
+// All rights reserved. You shall not copy, modify, merge, publish, distribute, sublicense, or sell the Software. See PluginLicense.txt. 
 
 using KSP.Localization;
 using KSP.UI.Screens;
@@ -1545,3 +1545,4 @@ namespace PromisedWorlds
         }
     }
 }
+
