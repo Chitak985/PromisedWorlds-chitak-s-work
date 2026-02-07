@@ -15,9 +15,6 @@ BUGFIXES:
 - Added a missing localization key for Gurdamma's Ashen Midlands
 - Updated Axod's description to make more sense
 
-LICENSE UPDATE:
-- The Promised Worlds settings / install checking plugin is now free software! It is licensed under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.en.html). See the PluginLicense file for details.
-
 ## V2.0.2
 BUGFIXES:
 - Fix Umod's terrain having gaps in it

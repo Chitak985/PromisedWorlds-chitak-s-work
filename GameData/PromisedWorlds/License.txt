@@ -35,7 +35,8 @@ EXCEPTIONS:
         > You can distribute only the "LoadingScreens" folder found in the archive
         > The files included in the "LoadingScreens" folder cannot be moved or deleted from inside that folder
 
-7. The Promised Worlds settings menu .dll (PromisedWorlds.dll) is (c) 2026, distributed under the GNU General Public License version 3. See the PluginLicense file for details.
+7. Promised Worlds settings menu (PromisedWorlds.dll)
+© 2026 averageksp. All rights reserved. See PluginLicense.txt
 
 // If I've left something out here, please let me know <3
 

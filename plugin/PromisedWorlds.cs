@@ -1,4 +1,6 @@
-// Promised Worlds Settings GUI (PromisedWorlds.dll) Copyright © Promised Worlds Dev Team and averageksp. Released under the GNU General Public License, version 3. See PluginLicense.txt.
+// Promised Worlds Settings GUI (PromisedWorlds.dll)
+// Copyright © 2026 averageksp
+// All rights reserved. See PluginLicense.txt.
 
 using KSP.Localization;
 using KSP.UI.Screens;
