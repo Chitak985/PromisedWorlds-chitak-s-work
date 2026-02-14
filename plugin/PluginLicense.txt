@@ -4,15 +4,14 @@ PromisedWorlds.dll
 Copyright © 2026 averageksp.
 All rights reserved.
 
-This software and its associated files (the “Software”) are the exclusive
+This software and its associated files (the “Software” or "Plugin") are the exclusive
 property of the copyright holder.
 
 Permission is granted to:
 - Use the Software as part of the Promised Worlds mod in Kerbal Space Program
 
 Permission is NOT granted to:
-- Copy, modify, merge, publish, distribute, sublicense, or sell the Software
-- Decompile, reverse engineer, or extract source code
+- Copy, modify, merge, publish, distribute, sublicense, or sell the Plugin
 - Redistribute the Software in source or binary form, in whole or in part
 
 Any use outside these terms requires explicit written permission
